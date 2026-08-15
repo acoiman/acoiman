@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=popins&size=23&pause=1000&color=000000&width=435&lines=Hi+I'm+Abraham+Coiman;a+Geospatial+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=popins&size=23&pause=1000&color=000000&width=435&lines=Hi!%F0%9F%91%8B%F0%9F%8F%BD+I'm+Abraham+Coiman;a+Geospatial+Data+Scientist+%F0%9F%9B%B0%EF%B8%8F)](https://git.io/typing-svg)
